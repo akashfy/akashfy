@@ -35,7 +35,7 @@ const akash = {
 };
 ```
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/akashfy/akashfy/main/assets/avatar.png"/>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/akashfy/akashfy/main/assets/avatar.png?v=2"/>
 
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm currently learning **Cloud Architecture & DevOps**
