@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://raw.githubusercontent.com/akashfy/akashfy/main/assets/banner.png?v=2" alt="Akash Yadav - Full Stack Developer" width="300"/>
+<img src="https://raw.githubusercontent.com/akashfy/akashfy/main/assets/banner.png?v=3" alt="Akash Yadav - Full Stack Developer" width="300"/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%BB;Building+Scalable+Solutions+%E2%9A%A1;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
