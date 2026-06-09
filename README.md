@@ -8,9 +8,9 @@
 
 <!-- Badges -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=akashfy&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=kodelyx&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
 &nbsp;
-<a href="https://github.com/akashfy?tab=followers"><img src="https://img.shields.io/github/followers/akashfy?label=Followers&style=flat-square&color=6366f1" alt="Followers" /></a>
+<a href="https://github.com/kodelyx?tab=followers"><img src="https://img.shields.io/github/followers/kodelyx?label=Followers&style=flat-square&color=6366f1" alt="Followers" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Automation-10B981?style=flat-square" alt="Focus" />
 </p>
@@ -60,7 +60,7 @@ func main() {
 >
 > **No API key. No billing. Pure Go.**
 >
-> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/akashfy/free-gemini-api) ![Stars](https://img.shields.io/github/stars/akashfy/free-gemini-api?style=flat-square&color=f59e0b)
+> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/kodelyx/free-gemini-api) ![Stars](https://img.shields.io/github/stars/kodelyx/free-gemini-api?style=flat-square&color=f59e0b)
 
 </td>
 <td width="50%">
@@ -70,7 +70,7 @@ func main() {
 >
 > **Zero upload. Full privacy. Client-side only.**
 >
-> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/akashfy/Gemini-Watermark-Remover-UI) ![Stars](https://img.shields.io/github/stars/akashfy/Gemini-Watermark-Remover-UI?style=flat-square&color=f59e0b)
+> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/kodelyx/Gemini-Watermark-Remover-UI) ![Stars](https://img.shields.io/github/stars/kodelyx/Gemini-Watermark-Remover-UI?style=flat-square&color=f59e0b)
 
 </td>
 </tr>
@@ -83,7 +83,7 @@ func main() {
 >
 > **Blazing fast. Low latency. Production-ready.**
 >
-> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/akashfy/superfast-whatsapp-api) ![Stars](https://img.shields.io/github/stars/akashfy/superfast-whatsapp-api?style=flat-square&color=f59e0b)
+> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/kodelyx/superfast-whatsapp-api) ![Stars](https://img.shields.io/github/stars/kodelyx/superfast-whatsapp-api?style=flat-square&color=f59e0b)
 
 </td>
 <td width="50%">
@@ -93,7 +93,7 @@ func main() {
 >
 > **Zero fees. No Razorpay. No middleman.**
 >
-> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/akashfy/upi-gateway) ![Stars](https://img.shields.io/github/stars/akashfy/upi-gateway?style=flat-square&color=f59e0b)
+> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/kodelyx/upi-gateway) ![Stars](https://img.shields.io/github/stars/kodelyx/upi-gateway?style=flat-square&color=f59e0b)
 
 </td>
 </tr>
@@ -106,7 +106,7 @@ func main() {
 >
 > **Full feature parity with Python instagrapi.**
 >
-> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/akashfy/go-instagrapi) ![Stars](https://img.shields.io/github/stars/akashfy/go-instagrapi?style=flat-square&color=f59e0b)
+> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/kodelyx/go-instagrapi) ![Stars](https://img.shields.io/github/stars/kodelyx/go-instagrapi?style=flat-square&color=f59e0b)
 
 </td>
 <td width="50%">
@@ -116,7 +116,7 @@ func main() {
 >
 > **Production-grade messaging automation.**
 >
-> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/akashfy/WhatsApp-Business-Api) ![Stars](https://img.shields.io/github/stars/akashfy/WhatsApp-Business-Api?style=flat-square&color=f59e0b)
+> [![Repo](https://img.shields.io/badge/→_View_Repo-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/kodelyx/WhatsApp-Business-Api) ![Stars](https://img.shields.io/github/stars/kodelyx/WhatsApp-Business-Api?style=flat-square&color=f59e0b)
 
 </td>
 </tr>
@@ -143,15 +143,15 @@ func main() {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akashfy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0920&title_color=6366F1&icon_color=10B981&text_color=94a3b8&ring_color=6366F1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kodelyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0920&title_color=6366F1&icon_color=10B981&text_color=94a3b8&ring_color=6366F1" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashfy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0920&title_color=6366F1&text_color=94a3b8&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodelyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0920&title_color=6366F1&text_color=94a3b8&langs_count=6" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashfy&theme=tokyonight&hide_border=true&background=0B0920&ring=6366F1&fire=10B981&currStreakLabel=6366F1&sideLabels=94a3b8&dates=475569" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kodelyx&theme=tokyonight&hide_border=true&background=0B0920&ring=6366F1&fire=10B981&currStreakLabel=6366F1&sideLabels=94a3b8&dates=475569" width="700"/>
 </div>
 
 <br/>
@@ -160,9 +160,9 @@ func main() {
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashfy/akashfy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashfy/akashfy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akashfy/akashfy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kodelyx/akashfy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kodelyx/akashfy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodelyx/akashfy/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </div>
 
@@ -178,7 +178,7 @@ func main() {
 &nbsp;
 <a href="https://www.linkedin.com/in/akash-yadav-773720280/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/akashfy"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/kodelyx"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
