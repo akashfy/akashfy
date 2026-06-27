@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0920,50:6366F1,100:10B981&height=180&section=header&text=AKASH%20YADAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Go%20Developer%20%7C%20Backend%20and%20Automation%20Builder&descSize=15&descAlignY=55&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0920,50:6366F1,100:10B981&height=180&section=header&text=AKASH%20YADAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20Automation%20Builder&descSize=15&descAlignY=55&descColor=94a3b8" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=I+build+systems+that+run+themselves+%F0%9F%94%A5;Go+%E2%80%A2+Next.js+%E2%80%A2+Docker+%E2%80%A2+Automation+%E2%80%A2+APIs" alt="Typing SVG" /></a>
@@ -12,7 +12,7 @@
 &nbsp;
 <a href="https://github.com/kodelyx?tab=followers"><img src="https://img.shields.io/github/followers/kodelyx?label=Followers&style=flat-square&color=6366f1" alt="Followers" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Go_Backend_&_Automation-10B981?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-Full_Stack_•_AI_•_Automation-10B981?style=flat-square" alt="Focus" />
 </p>
 
 </div>
