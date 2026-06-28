@@ -78,11 +78,11 @@ def main():
 
     # Generate new badges section
     badges_section = (
-        f'<img src="https://img.shields.io/badge/Total_Stars-⭐_{total_stars}-yellow?style=flat-square" alt="Total Stars" />\n'
+        f'<img src="https://img.shields.io/badge/Stars-⭐_{total_stars}-yellow?style=flat-square" alt="Stars" />\n'
         f'&nbsp;\n'
-        f'<img src="https://img.shields.io/badge/Total_Clones_(14d)-📥_{clones_str}-10B981?style=flat-square" alt="Total Clones" />\n'
+        f'<img src="https://img.shields.io/badge/Clones-📥_{clones_str}-10B981?style=flat-square" alt="Clones" />\n'
         f'&nbsp;\n'
-        f'<img src="https://img.shields.io/badge/Total_Views_(14d)-📈_{views_str}-6366f1?style=flat-square" alt="Total Views" />'
+        f'<img src="https://img.shields.io/badge/Views-📈_{views_str}-6366f1?style=flat-square" alt="Views" />'
     )
 
     pattern = r'(<!-- STATS_BADGES_START -->\n)(.*?)(\n<!-- STATS_BADGES_END -->)'
