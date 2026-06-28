@@ -5,6 +5,8 @@
 
 <br/><br/>
 
+<h1>AKASH YADAV</h1>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=I+build+systems+that+run+themselves+%F0%9F%94%A5;Go+%E2%80%A2+Next.js+%E2%80%A2+Docker+%E2%80%A2+Automation+%E2%80%A2+APIs" alt="Typing SVG" /></a>
 
