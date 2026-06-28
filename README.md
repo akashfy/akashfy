@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0920,50:6366F1,100:10B981&height=180&section=header&text=AKASH%20YADAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20Automation%20Builder&descSize=15&descAlignY=55&descColor=94a3b8" width="100%"/>
+<!-- Futuristic Cyberpunk Banner -->
+<img src="https://cdna.artstation.com/p/assets/images/images/055/086/844/original/gun-sirichote-night-workflow3-animated3-edit.gif?1666093203" width="100%" alt="Cyberpunk Developer Banner" style="border-radius: 8px;"/>
+
+<br/><br/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=I+build+systems+that+run+themselves+%F0%9F%94%A5;Go+%E2%80%A2+Next.js+%E2%80%A2+Docker+%E2%80%A2+Automation+%E2%80%A2+APIs" alt="Typing SVG" /></a>
@@ -19,43 +21,64 @@
 
 ---
 
-## ⚡ What I Actually Build
+## ⚡ What I Actually Build (Featured Projects)
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ [flow-agent](https://github.com/kodelyx/flow-agent)
-> CLI toolkit for Google Flow - video & image generation.
+### 🖥️ [Flow-Agent-Studio](https://github.com/kodelyx/Flow-Agent-Studio)
+> **Google Flow Automation Web UI with Docker Deployment**
 >
-> **Pure Go • Watermark Removal • No API Keys**
+> 🚀 *High Adoption: 450+ clones (220+ unique users)*
+> * **React & Go • Web Studio UI • One-click Docker Setup**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔓 [free-gemini-api](https://github.com/kodelyx/free-gemini-api)
-> Use Google Gemini (Text/Image/Video) for FREE.
+### ⚡ [flow-agent](https://github.com/kodelyx/flow-agent)
+> **CLI Toolkit for Google Flow Video & Image Generation**
 >
-> **Pure Go • No API Keys • Zero Billing**
+> ⭐ *12 Stars & 5 Forks*
+> * **Pure Go • Watermark Removal • No API Keys • T2V/V2V**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 [WhatsApp-Business-Api](https://github.com/kodelyx/WhatsApp-Business-Api)
-> 40 workers campaign broadcaster & real-time inbox.
+### 🔓 [free-gemini-api](https://github.com/kodelyx/free-gemini-api)
+> **Use Google Gemini (Text/Image/Video) for FREE**
 >
-> **Go & JS • Docker Compose • Persistent DB**
+> * **Pure Go • OpenAI-compatible API • Zero Billing**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💳 [upi-gateway](https://github.com/kodelyx/upi-gateway)
-> Self-hosted UPI payment gateway via email auto-detection.
+### 🐹 [Gemini-Watermark-Remover](https://github.com/kodelyx/Gemini-Watermark-Remover)
+> **Ultra-Fast Real-Time Image + Video Watermark Remover**
 >
-> **Zero Fees • No Middleman • Serverless Worker**
+> * **Pure Go • Pixel-level processing • Highly optimized**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [WhatsApp-Business-Api](https://github.com/kodelyx/WhatsApp-Business-Api)
+> **Multi-worker Broadcaster & Real-time Customer Inbox**
+>
+> * **Go & JS • Docker Compose • Meta Webhooks**
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 [chatgpt-free-api](https://github.com/kodelyx/chatgpt-free-api)
+> **Use ChatGPT (Chat, Image Gen & Code) for FREE**
+>
+> * **Pure Go • OpenAI-compatible API • No keys needed**
 
 </td>
 </tr>
@@ -65,8 +88,8 @@
 
 ## 🛠️ Tech Arsenal
 
-* **Backend / Languages:** `Go (Golang)`, `Next.js`, `TypeScript`, `Node.js`, `Python`
-* **Infrastructure / APIs:** `Docker`, `Linux`, `Nginx`, `Cloudflare`, `REST`, `Meta Webhooks`
+* **Backend & Languages:** `Go (Golang)`, `Next.js`, `TypeScript`, `Node.js`, `Python`
+* **Infrastructure & DevOps:** `Docker`, `Linux`, `Nginx`, `Cloudflare Tunnels`, `REST APIs`, `Meta Webhooks`
 
 ---
 
@@ -103,3 +126,4 @@
 **"I don't fix bugs. I add features that make them irrelevant."**
 
 </div>
+
