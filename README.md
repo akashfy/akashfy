@@ -17,7 +17,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Clones-📥_1.8K+-10B981?style=flat-square" alt="Clones" />
 &nbsp;
-<img src="https://img.shields.io/badge/Views-📈_881-6366f1?style=flat-square" alt="Views" />
+<img src="https://img.shields.io/badge/Views-📈_955-6366f1?style=flat-square" alt="Views" />
 <!-- STATS_BADGES_END -->
 </p>
 
