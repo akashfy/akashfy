@@ -13,11 +13,11 @@
 <a href="https://github.com/kodelyx?tab=followers"><img src="https://img.shields.io/github/followers/kodelyx?label=Followers&style=flat-square&color=6366f1" alt="Followers" /></a>
 &nbsp;
 <!-- STATS_BADGES_START -->
-<img src="https://img.shields.io/badge/Stars-⭐_40-yellow?style=flat-square" alt="Stars" />
+<img src="https://img.shields.io/badge/Stars-⭐_41-yellow?style=flat-square" alt="Stars" />
 &nbsp;
-<img src="https://img.shields.io/badge/Clones-📥_1.8K+-10B981?style=flat-square" alt="Clones" />
+<img src="https://img.shields.io/badge/Clones-📥_1.3K+-10B981?style=flat-square" alt="Clones" />
 &nbsp;
-<img src="https://img.shields.io/badge/Views-📈_955-6366f1?style=flat-square" alt="Views" />
+<img src="https://img.shields.io/badge/Views-📈_868-6366f1?style=flat-square" alt="Views" />
 <!-- STATS_BADGES_END -->
 </p>
 
