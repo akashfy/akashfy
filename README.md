@@ -15,9 +15,9 @@
 <!-- STATS_BADGES_START -->
 <img src="https://img.shields.io/badge/Stars-⭐_40-yellow?style=flat-square" alt="Stars" />
 &nbsp;
-<img src="https://img.shields.io/badge/Clones-📥_622-10B981?style=flat-square" alt="Clones" />
+<img src="https://img.shields.io/badge/Clones-📥_979-10B981?style=flat-square" alt="Clones" />
 &nbsp;
-<img src="https://img.shields.io/badge/Views-📈_805-6366f1?style=flat-square" alt="Views" />
+<img src="https://img.shields.io/badge/Views-📈_896-6366f1?style=flat-square" alt="Views" />
 <!-- STATS_BADGES_END -->
 </p>
 
