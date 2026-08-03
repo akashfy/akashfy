@@ -13,9 +13,9 @@
 <a href="https://github.com/kodelyx?tab=followers"><img src="https://img.shields.io/github/followers/kodelyx?label=Followers&style=flat-square&color=6366f1" alt="Followers" /></a>
 &nbsp;
 <!-- STATS_BADGES_START -->
-<img src="https://img.shields.io/badge/Stars-⭐_55-yellow?style=flat-square" alt="Stars" />
+<img src="https://img.shields.io/badge/Stars-⭐_57-yellow?style=flat-square" alt="Stars" />
 &nbsp;
-<img src="https://img.shields.io/badge/Clones-📥_761-10B981?style=flat-square" alt="Clones" />
+<img src="https://img.shields.io/badge/Clones-📥_754-10B981?style=flat-square" alt="Clones" />
 &nbsp;
 <img src="https://img.shields.io/badge/Views-📈_1.2K+-6366f1?style=flat-square" alt="Views" />
 <!-- STATS_BADGES_END -->
