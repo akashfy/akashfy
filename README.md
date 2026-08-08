@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0920,50:6366F1,100:10B981&height=180&section=header&text=AKASH%20YADAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20Automation%20Builder&descSize=15&descAlignY=55&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0920,50:6366F1,100:10B981&height=180&section=header&text=AKASH%20YADAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Builder&descSize=15&descAlignY=55&descColor=94a3b8" width="100%"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=I+build+systems+that+run+themselves+%F0%9F%94%A5;Go+%E2%80%A2+Next.js+%E2%80%A2+Docker+%E2%80%A2+Automation+%E2%80%A2+APIs" alt="Typing SVG" /></a>
 
-<!-- Badges -->
 <p>
 <img src="https://komarev.com/ghpvc/?username=kodelyx&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
 &nbsp;
@@ -17,64 +14,34 @@
 
 ---
 
-## ⚡ What I Build
+### 👋 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm a **Full Stack Developer** focused on building **high-performance backends**, **AI automation pipelines**, and **self-hosted tools** that just work — no hand-holding needed.
 
-### ⚡ [flow-agent](https://github.com/kodelyx/flow-agent)
-> **CLI Toolkit for Google Flow Video & Image Generation**
->
-> ⭐ *12 Stars & 5 Forks*
-> * **Pure Go • Watermark Removal • No API Keys • T2V/V2V**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔓 free-gemini-api
-> **Use Google Gemini (Text/Image/Video) for FREE**
->
-> * **Pure Go • OpenAI-compatible API • Zero Billing**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💳 chatgpt-free-api
-> **Use ChatGPT (Chat, Image Gen & Code) for FREE**
->
-> * **Pure Go • OpenAI-compatible API • No keys needed**
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 WhatsApp-Business-Api
-> **Multi-worker Broadcaster & Real-time Customer Inbox**
->
-> * **Go & JS • Docker Compose • Meta Webhooks**
-
-</td>
-</tr>
-</table>
+* 🔧 I write most of my backends in **Go** — fast, compiled, zero-dependency binaries
+* 🤖 I build **autonomous AI agents** that handle full video production pipelines end-to-end
+* 🐳 Everything I ship runs in **Docker** — one command, done
+* ⚡ I reverse-engineer APIs and build free, open alternatives
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 
-* **Backend & Languages:** `Go (Golang)`, `Next.js`, `TypeScript`, `Node.js`, `Python`
-* **Infrastructure & DevOps:** `Docker`, `Linux`, `Nginx`, `Cloudflare Tunnels`, `REST APIs`, `Meta Webhooks`
+* **Languages:** `Go` `TypeScript` `Python` `Node.js`
+* **Frontend:** `Next.js` `React`
+* **Infra & DevOps:** `Docker` `Linux` `Nginx` `Cloudflare Tunnels`
+* **APIs & Integrations:** `REST` `WebSockets` `Meta Webhooks` `FFmpeg`
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kodelyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0920&title_color=6366F1&icon_color=10B981&text_color=94a3b8&ring_color=6366F1" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kodelyx&theme=tokyonight" width="90%"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kodelyx&theme=tokyonight" height="150"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodelyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0920&title_color=6366F1&text_color=94a3b8&langs_count=6" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kodelyx&theme=tokyonight" height="150"/>
 </div>
 
 <br/>
@@ -90,8 +57,6 @@
 ---
 
 <div align="center">
-
-### 🤝 Let's Connect
 
 <a href="mailto:infotecha189@gmail.com"><img src="https://img.shields.io/badge/Email-infotecha189@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
