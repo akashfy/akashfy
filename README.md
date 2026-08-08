@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0920,50:6366F1,100:10B981&height=180&section=header&text=AKASH%20YADAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20Automation%20Builder&descSize=15&descAlignY=55&descColor=94a3b8" width="100%"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0920,50:6366F1,100:10B981&height=190&section=header&text=AKASH%20YADAV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Automation%20Architect&descSize=15&descAlignY=55&descColor=94a3b8" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=I+build+systems+that+run+themselves+%F0%9F%94%A5;Go+%E2%80%A2+Next.js+%E2%80%A2+Docker+%E2%80%A2+Automation+%E2%80%A2+APIs" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=Building+autonomous+AI+systems+%26+pipelines+%F0%9F%9A%80;Golang+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Docker+%E2%80%A2+AI+Agents;Crafting+scalable+APIs+%26+high-performance+tools" alt="Typing SVG" /></a>
 
-<!-- Badges -->
 <p>
 <img src="https://komarev.com/ghpvc/?username=kodelyx&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
 &nbsp;
@@ -25,109 +24,89 @@
 
 ---
 
-## ⚡ What I Actually Build (Featured Projects)
+### 🚀 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> **Full Stack Engineer & AI Systems Architect** with a passion for building high-performance Go services, autonomous AI pipelines, media generation tools, and self-hosted microservices.
 
-### 🖥️ [Flow-Agent-Studio](https://github.com/kodelyx/Flow-Agent-Studio)
-> **Google Flow Automation Web UI with Docker Deployment**
->
-> 🚀 *High Adoption: 450+ clones (220+ unique users)*
-> * **React & Go • Web Studio UI • One-click Docker Setup**
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [flow-agent](https://github.com/kodelyx/flow-agent)
-> **CLI Toolkit for Google Flow Video & Image Generation**
->
-> ⭐ *12 Stars & 5 Forks*
-> * **Pure Go • Watermark Removal • No API Keys • T2V/V2V**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔓 [free-gemini-api](https://github.com/kodelyx/free-gemini-api)
-> **Use Google Gemini (Text/Image/Video) for FREE**
->
-> * **Pure Go • OpenAI-compatible API • Zero Billing**
-
-</td>
-<td width="50%" valign="top">
-
-### 🐹 [Gemini-Watermark-Remover](https://github.com/kodelyx/Gemini-Watermark-Remover)
-> **Ultra-Fast Real-Time Image + Video Watermark Remover**
->
-> * **Pure Go • Pixel-level processing • Highly optimized**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📱 [WhatsApp-Business-Api](https://github.com/kodelyx/WhatsApp-Business-Api)
-> **Multi-worker Broadcaster & Real-time Customer Inbox**
->
-> * **Go & JS • Docker Compose • Meta Webhooks**
-
-</td>
-<td width="50%" valign="top">
-
-### 💳 [chatgpt-free-api](https://github.com/kodelyx/chatgpt-free-api)
-> **Use ChatGPT (Chat, Image Gen & Code) for FREE**
->
-> * **Pure Go • OpenAI-compatible API • No keys needed**
-
-</td>
-</tr>
-</table>
+* 🛠️ **Core Focus**: High-throughput Golang backends, Next.js web applications, and autonomous AI agents.
+* 🤖 **AI & Automation**: Google Flow AI automation, media rendering pipelines, and reverse-engineered API engines.
+* ⚡ **Performance First**: Zero-latency APIs, Dockerized microservices, and pixel-level stream processing.
 
 ---
 
-## 🛠️ Tech Arsenal
-
-* **Backend & Languages:** `Go (Golang)`, `Next.js`, `TypeScript`, `Node.js`, `Python`
-* **Infrastructure & DevOps:** `Docker`, `Linux`, `Nginx`, `Cloudflare Tunnels`, `REST APIs`, `Meta Webhooks`
-
----
-
-## 📊 GitHub Stats
+### 🔥 Featured Open Source Work
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kodelyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0920&title_color=6366F1&icon_color=10B981&text_color=94a3b8&ring_color=6366F1" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodelyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0920&title_color=6366F1&text_color=94a3b8&langs_count=6" height="150"/>
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| ⚡ **flow-agent** | CLI & Agent toolkit for Google Flow video/image generation with watermark removal & T2V/V2V support. | `Go` `FFmpeg` `Automation` | [**View Repo**](https://github.com/kodelyx/flow-agent) |
+| 🐲 **reels-monster** | Autonomous multi-agent pipeline for producing high-quality social reels & short-form video content. | `Python` `Remotion` `AI Agents` | **Private System** |
+| 💬 **WhatsApp-Business-Api** | High-speed, self-hosted WhatsApp automation engine & multi-number message orchestrator. | `Go` `Fiber` `Docker` | **Private System** |
+| 🔓 **free-gemini-api** | Lightweight proxy gateway exposing free text, image & video capabilities with zero API key requirement. | `Go` `REST API` | **Private System** |
+
 </div>
 
-<br/>
+---
+
+### 🛠️ Tech Arsenal
 
 <div align="center">
+
+#### Languages & Frameworks
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Infrastructure, Cloud & Databases
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kodelyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0920&title_color=6366F1&icon_color=10B981&text_color=94a3b8&ring_color=6366F1" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodelyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0920&title_color=6366F1&text_color=94a3b8&langs_count=6" height="165"/>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kodelyx/kodelyx/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kodelyx/kodelyx/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodelyx/kodelyx/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 🤝 Connect & Collaborate
 
 <a href="mailto:infotecha189@gmail.com"><img src="https://img.shields.io/badge/Email-infotecha189@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/akash-yadav-773720280/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akash-yadav-773720280/"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/kodelyx"><img src="https://img.shields.io/badge/GitHub-Follow%20%40kodelyx-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-**"I don't fix bugs. I add features that make them irrelevant."**
+*"I don't fix bugs. I add features that make them irrelevant."*
 
 </div>
-
