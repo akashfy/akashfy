@@ -11,33 +11,16 @@
 <img src="https://komarev.com/ghpvc/?username=kodelyx&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/kodelyx?tab=followers"><img src="https://img.shields.io/github/followers/kodelyx?label=Followers&style=flat-square&color=6366f1" alt="Followers" /></a>
-&nbsp;
-<!-- STATS_BADGES_START -->
-<img src="https://img.shields.io/badge/Stars-⭐_69-yellow?style=flat-square" alt="Stars" />
-&nbsp;
-<img src="https://img.shields.io/badge/Clones-📥_769-10B981?style=flat-square" alt="Clones" />
-&nbsp;
-<img src="https://img.shields.io/badge/Views-📈_1.5K+-6366f1?style=flat-square" alt="Views" />
-<!-- STATS_BADGES_END -->
 </p>
 
 </div>
 
 ---
 
-## ⚡ What I Actually Build (Featured Projects)
+## ⚡ What I Build
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🖥️ [Flow-Agent-Studio](https://github.com/kodelyx/Flow-Agent-Studio)
-> **Google Flow Automation Web UI with Docker Deployment**
->
-> 🚀 *High Adoption: 450+ clones (220+ unique users)*
-> * **React & Go • Web Studio UI • One-click Docker Setup**
-
-</td>
 <td width="50%" valign="top">
 
 ### ⚡ [flow-agent](https://github.com/kodelyx/flow-agent)
@@ -47,42 +30,31 @@
 > * **Pure Go • Watermark Removal • No API Keys • T2V/V2V**
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-### 🔓 [free-gemini-api](https://github.com/kodelyx/free-gemini-api)
+### 🔓 free-gemini-api
 > **Use Google Gemini (Text/Image/Video) for FREE**
 >
 > * **Pure Go • OpenAI-compatible API • Zero Billing**
 
 </td>
-<td width="50%" valign="top">
-
-### 🐹 [Gemini-Watermark-Remover](https://github.com/kodelyx/Gemini-Watermark-Remover)
-> **Ultra-Fast Real-Time Image + Video Watermark Remover**
->
-> * **Pure Go • Pixel-level processing • Highly optimized**
-
-</td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-### 📱 [WhatsApp-Business-Api](https://github.com/kodelyx/WhatsApp-Business-Api)
-> **Multi-worker Broadcaster & Real-time Customer Inbox**
+### 💳 chatgpt-free-api
+> **Use ChatGPT (Chat, Image Gen & Code) for FREE**
 >
-> * **Go & JS • Docker Compose • Meta Webhooks**
+> * **Pure Go • OpenAI-compatible API • No keys needed**
 
 </td>
 <td width="50%" valign="top">
 
-### 💳 [chatgpt-free-api](https://github.com/kodelyx/chatgpt-free-api)
-> **Use ChatGPT (Chat, Image Gen & Code) for FREE**
+### 📱 WhatsApp-Business-Api
+> **Multi-worker Broadcaster & Real-time Customer Inbox**
 >
-> * **Pure Go • OpenAI-compatible API • No keys needed**
+> * **Go & JS • Docker Compose • Meta Webhooks**
 
 </td>
 </tr>
@@ -130,4 +102,3 @@
 **"I don't fix bugs. I add features that make them irrelevant."**
 
 </div>
-
