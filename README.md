@@ -2,7 +2,7 @@
 
 # Hey, I'm Akash 👋
 
-**Full Stack Developer | AI & Automation Builder**
+**Not a Coder — I'm a Vibe Coder 🎯**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=I+build+systems+that+run+themselves+%F0%9F%94%A5;Go+%E2%80%A2+Next.js+%E2%80%A2+Docker+%E2%80%A2+Automation+%E2%80%A2+APIs" alt="Typing SVG" /></a>
 
@@ -18,7 +18,7 @@
 
 ### 👋 About Me
 
-I'm a **Full Stack Developer** focused on building **high-performance backends**, **AI automation pipelines**, and **self-hosted tools** that just work — no hand-holding needed.
+I'm not a traditional coder — I'm a **Vibe Coder**. I build **high-performance backends**, **AI automation pipelines**, and **self-hosted tools** that just work — no hand-holding needed.
 
 * 🔧 I write most of my backends in **Go** — fast, compiled, zero-dependency binaries
 * 🤖 I build **autonomous AI agents** that handle full video production pipelines end-to-end
